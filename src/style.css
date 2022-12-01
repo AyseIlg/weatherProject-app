@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+h1,
+h2 {
+  text-align: center;
+  margin: 20px;
+}
+h1,
+h2,
+p,
+ul {
+  font-family: "Indie Flower", cursive;
+}
+.weather {
+  text-align: center;
+  list-style: none;
+}
+.details {
+  text-align: left;
+  list-style: circle;
+  line-height: 2;
+}
